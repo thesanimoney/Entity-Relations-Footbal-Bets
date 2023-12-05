@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BBDD9150-4B83-4BCA-8FC1-CA4F0D027A6A}"
+	ProjectSection(SolutionItems) = preProject
+		DataFootballBookmaker.cs = DataFootballBookmaker.cs
+		DataModels.cs = DataModels.cs
+		Games.cs = Games.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EF4B57B-A776-4739-B4F8-1F1BF973CB9C}
+	EndGlobalSection
+EndGlobal
